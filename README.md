@@ -11,7 +11,7 @@ The work here reflects both my **initial approaches** and the **ideas I explored
 ## Contents
 - Exploratory ML models and baselines  
 - Later iterations with refinements and alternative approaches  
-- Code structured in Jupyter notebooks 
+- Explanatory Jupyter notebooks 
 
 ---
 
