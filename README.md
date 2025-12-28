@@ -18,5 +18,5 @@ The work here reflects both my **initial approaches** and the **ideas I explored
 ## Usage
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/husainm97/ml_copenhagen.git
+cd ml_copenhagen
